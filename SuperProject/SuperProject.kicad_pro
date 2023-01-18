@@ -449,7 +449,63 @@
     ],
     [
       "8bfefbd0-4b97-41de-9a91-8eec0ac20fec",
-      "UVI"
+      "ULEDINDC"
+    ],
+    [
+      "d4d5a458-a77f-471c-bfe4-84e1ff6e4793",
+      "UBUFF"
+    ],
+    [
+      "1f35ef93-9263-4e41-b468-80d1d571df4a",
+      "UError1"
+    ],
+    [
+      "e603210f-e1f6-4dee-bb82-3fb04a128999",
+      "UDRIMOS"
+    ],
+    [
+      "c3ab4dfa-34ee-4827-b1a2-7d12b4a75167",
+      "NOT"
+    ],
+    [
+      "0360ac4a-8277-4afd-a512-532e2df6b7cc",
+      "NOR"
+    ],
+    [
+      "299739f6-15c8-4ced-910d-d876b5a3759b",
+      "RS1"
+    ],
+    [
+      "a29910fd-ead3-41a6-a19b-566f93a19ee5",
+      "UTEMP1"
+    ],
+    [
+      "59361742-cce4-40da-ad31-46bbb191c3f2",
+      "UTEMP2"
+    ],
+    [
+      "e65b5bff-97be-4635-a3f7-e55efd94c768",
+      "UVLOASTABLE"
+    ],
+    [
+      "cb6263f4-5abb-4ab9-9809-98d34da2b1f2",
+      "UError2"
+    ],
+    [
+      "ceef9f38-cf33-442c-aa01-52df33bb525b",
+      "UError3"
+    ],
+    [
+      "5c79365b-7005-48cb-94ba-ff5f7ebefda4",
+      "RS2"
+    ],
+    [
+      "4858d7ad-a3b5-42b0-9123-3a2392b95305",
+      "UTEMP4"
+    ],
+    [
+      "df2b9d4a-c956-4ab9-9a32-34fbd0b62702",
+      "UTEMP3"
     ]
   ],
   "text_variables": {}
